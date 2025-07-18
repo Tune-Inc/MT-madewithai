@@ -9,6 +9,6 @@ plugins {
 buildscript {
     dependencies {
         classpath(libs.kotlin.gradle.plugin)
-        classpath "com.google.dagger:hilt-android-gradle-plugin:2.51.1"
+        classpath("com.google.dagger:hilt-android-gradle-plugin:2.51.1")
     }
 }
